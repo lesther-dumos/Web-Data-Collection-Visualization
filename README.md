@@ -17,7 +17,7 @@ The idea behind this lab is to explore the media portrayal of both subjects. Whe
 
 ## Analysis
 1. Visualizations
-- [Homelessness(Image 1)](/assests/homeless_causes.csv)
+- [Homelessness(Image 1)](/img/homelessness.png)
 - [Housing Support(Image 2)](/img/homeless_services.png)
 2. Data
 - [CVS1](/assests/homeless_causes.csv)
